@@ -78,8 +78,6 @@ vector<int> twoSumUsingSortingAndLoop(int nums[], int target, int size)
 }
 
 
-// Best Solution -> Kaden's algorithm 
-
 
 int main()
 {
