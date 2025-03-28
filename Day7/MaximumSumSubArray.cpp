@@ -55,7 +55,6 @@ int maximumSubArray(int arr[], int size){
       currSum = 0;
     }
   }
-
   return maxSum;
 }
 
